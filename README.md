@@ -12,8 +12,6 @@ First you go to the repository on GitHub and click on the "code" button and then
 I have many interests. Some of which include knitting, crochetting, gardening, and traveling.
 
 ## Websites I Recommend
-<ul>
-  <li>[Ravelry](https://www.ravelry.com/account/login)</li>
-  <li>[Sekr](https://www.sekr.com/)</li>
-  <li>[Thriftbooks](https://www.thriftbooks.com/?utm_source=google&utm_medium=cpc&utm_campaign=hawk_top_searches_customer_acquisition&utm_adgroup=&utm_term=buy%20used%20books%20online&utm_content=602631635693&gad_source=1&gclid=Cj0KCQjwgL-3BhDnARIsAL6KZ6-lMuxEMWzrIgMLaJq19WPktrKBA725yNIHqQj3Cs7q7TiQdiK19BcaAuZyEALw_wcB)</li>
-</ul>
+[Ravelry](https://www.ravelry.com/account/login)
+[Sekr](https://www.sekr.com/)
+[Thriftbooks](https://www.thriftbooks.com/?utm_source=google&utm_medium=cpc&utm_campaign=hawk_top_searches_customer_acquisition&utm_adgroup=&utm_term=buy%20used%20books%20online&utm_content=602631635693&gad_source=1&gclid=Cj0KCQjwgL-3BhDnARIsAL6KZ6-lMuxEMWzrIgMLaJq19WPktrKBA725yNIHqQj3Cs7q7TiQdiK19BcaAuZyEALw_wcB)
